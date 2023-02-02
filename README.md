@@ -1,5 +1,5 @@
 # ImoocReaderWebsite
-This is a Website made by SSM Framework
+This is a Website Project develop by SSM framework in Java.
 
 [Software & Framework]
 1.Spring & SpringMVC & FreeMarker
