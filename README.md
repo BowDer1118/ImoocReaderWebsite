@@ -13,6 +13,8 @@
 1. Boostrap
 2. JQuery
 3. Art-Template
+4. lay-ui
+5. wangEditor
 
 ### Back End
 1. Spring & Spring MVC
