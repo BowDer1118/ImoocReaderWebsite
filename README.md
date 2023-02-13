@@ -8,7 +8,8 @@
 3. Member Evaluation
 
 ### Manager Feature
-1. Book database Management (CURD)
+1. Administrator Login
+2. Book database Management (CURD)
 
 ## [Framework & Software & Plugins]
 ### Front End
