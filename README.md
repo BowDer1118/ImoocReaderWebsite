@@ -1,6 +1,8 @@
 # Imooc Reader Website
 ### This is a full-end website project developed by Spring-SpringMVC-MyBatis (SSM) framework in Java.
 
+## [DEMO]
+
 ## [Website Feature]
 ### Client Feature
 1. Book Searching
