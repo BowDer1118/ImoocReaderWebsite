@@ -54,9 +54,9 @@
             </props>
         </property>
     </bean>
-    <!--設定beanId為ViewResover(固定不可改的)讓Spring知道，要使用哪個模板引擎對資料進行解析-->
+    <!--設定beanId為ViewResolver(固定不可改的)讓Spring知道，要使用哪個模板引擎對資料進行解析-->
     <bean id="ViewResolver" class="org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver">
-        <!--指定當ViewResover解析View與資料後，產生新的html的編碼格式-->
+        <!--指定當ViewResolver解析View與資料後，產生新的html的編碼格式-->
         <property name="contentType" value="text/html;charset=utf-8"></property>
         <!--指定要加載模板引擎的副檔名名稱-->
         <property name="suffix" value=".ftl"></property>
@@ -134,5 +134,12 @@
                 </constructor-arg>
             </bean>
         </property>
+    </bean>
+
+    <!--開啟Spring Task定時任務的註解模式-->
+    <task:annotation-driven></task:annotation-driven>
+    <!--開啟Spring處理檔案檔案的功能-->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="defaultEncoding" value="UTF-8"></property>
     </bean>
 </beans>

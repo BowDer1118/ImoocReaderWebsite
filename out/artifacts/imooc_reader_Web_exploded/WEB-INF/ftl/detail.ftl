@@ -185,7 +185,7 @@
                     <span class="stars" data-score=${book.evaluationScore}></span>
                 </div>
                 <div class="col-5  pt-2">
-                    <h5 class="text-white">${book.evaluationQuantity}</h5>
+                    <h5 class="text-white">${book.evaluationQuantity}已評論</h5>
                 </div>
             </div>
         </div>
