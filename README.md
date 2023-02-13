@@ -3,10 +3,12 @@
 
 ## [Website Feature]
 ### Client Feature
-1. Member Login & Member Register
-2. Member Evaluation
+1. Book Searching
+2. Member Login & Member Register
+3. Member Evaluation
 
 ### Manager Feature
+1. Book database Management (CURD)
 
 ## [Framework & Software & Plugins]
 ### Front End
@@ -24,6 +26,7 @@
 5. Kaptcha Robot Test
 6. Logback
 7. JUnit Test
+8. JSoup
 
 ## [Website Architecture]
 ### Full End
