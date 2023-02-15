@@ -32,10 +32,5 @@
 7. JUnit Test
 8. JSoup
 
-## [Website Architecture]
-### Full End
-### Front End
-### Back End
-
 ## [Database Design]
 ### Schema Visualization
