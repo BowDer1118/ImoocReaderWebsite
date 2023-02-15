@@ -34,3 +34,4 @@
 
 ## [Database Design]
 ### Schema Visualization
+![DB_Visualization](https://user-images.githubusercontent.com/55616135/218946272-8f26bf76-c460-4179-bf6f-67da6f3131ba.png)
