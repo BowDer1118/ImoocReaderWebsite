@@ -6,7 +6,7 @@
 
 ## [Website Feature]
 ### Client Feature
-1. Book Searching & Book Type Category
+1. Book Searching & Book Topic Type Category
 2. Member Login & Member Register (with MD5 encryption)
 3. Member Evaluation
 
